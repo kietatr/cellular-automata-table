@@ -1,6 +1,6 @@
 CA ca;
 CAGrid caGrid;
-int caGridRows = 4, caGridCols = 8;
+int caGridRows = 3, caGridCols = 2;
 
 void setup() {
   fullScreen();
@@ -11,7 +11,6 @@ void setup() {
 }
 
 void draw() {
-  noLoop();
   caGrid.drawCAGrid();
 }
 

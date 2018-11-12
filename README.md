@@ -1,5 +1,5 @@
 # Cellular Automata Table
-Why do you have to look at one when you can look at many cellular automata at once? 
+Why do you have to look at one when you can look at many cellular automata at once? (My intro to writing trippy gifs.)
 
 ![1-cellular-automata](https://media.giphy.com/media/ulmOL9zobDwS4LooQI/giphy.gif)
 ![2-cellular-automata](https://media.giphy.com/media/fHx3dSiy069Drlm6kH/giphy.gif)

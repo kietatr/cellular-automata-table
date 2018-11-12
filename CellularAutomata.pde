@@ -1,6 +1,6 @@
 CA ca;
 CAGrid caGrid;
-int caGridRows = 3, caGridCols = 2;
+int caGridRows = 5, caGridCols = 5;
 
 void setup() {
   fullScreen();

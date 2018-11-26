@@ -6,7 +6,3 @@ Why do you have to look at one when you can look at many cellular automata at on
 <img src="https://media.giphy.com/media/F3J5BVY1a57tSOngVi/giphy.gif" alt="3" width="900"/>
 <img src="https://media.giphy.com/media/1nayKTokGaLWI3ampr/giphy.gif" alt="4" width="900"/>
 <img src="https://media.giphy.com/media/dCDpJ2woVquAqTuWhi/giphy.gif" alt="5" width="900"/>
-
-
-
-<img src="https://media.giphy.com/media/vbPFQTa5usF9NPLdKu/giphy.gif" alt="glitch-af" width="1000"/>

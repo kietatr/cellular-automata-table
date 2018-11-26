@@ -9,4 +9,4 @@ Why do you have to look at one when you can look at many cellular automata at on
 
 ![glitch-af](https://media.giphy.com/media/vbPFQTa5usF9NPLdKu/giphy.gif)
 
-<img src="https://media.giphy.com/media/vbPFQTa5usF9NPLdKu/giphy.gif" alt="glitch-af" width="200"/>
+<img src="https://media.giphy.com/media/vbPFQTa5usF9NPLdKu/giphy.gif" alt="glitch-af" width="800"/>
